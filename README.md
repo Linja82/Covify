@@ -1,5 +1,5 @@
 # Covify
-Discord bot that provides information about Covid. (Ontario, Canada Only)
+Discord bot that provides information about Covid. (Ontario, Canada Only)  
 Collaborated using live share
 
 ## Commands
