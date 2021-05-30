@@ -2,7 +2,10 @@
 Discord bot that provides information about Covid. (Ontario, Canada Only)  
 Collaborated using live share
 
-## Commands
+## Command Flowchart  
+![alt text](https://github.com/Linja82/Covify/blob/main/Images/Covify%20Command%20Flow%20Chart.png)  
+
+## Command Examples
 .help  
 ![alt text](https://github.com/Linja82/Covify/blob/main/Images/Help.png)  
 .symptoms  
